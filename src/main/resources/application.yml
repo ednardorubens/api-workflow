@@ -1,0 +1,15 @@
+server:
+  error:
+    include-exception: true
+    include-message: always
+
+spring:
+  main:
+    banner-mode: off
+  thymeleaf:
+    check-template: false
+  mvc:
+    problemdetails:
+      enabled: true
+  web:
+    locale: pt_BR
