@@ -1,4 +1,5 @@
 # API WORKFLOW
+Aplicação de exemplo de uso do Spring AOP pra transição de status de um processo.
 Projeto desenvolvido utilizando:
 - **[Spring Boot](https://spring.io/projects/spring-boot)**
 - **[Spring AOP](https://docs.spring.io/spring-framework/reference/core/aop.html)**
@@ -29,6 +30,3 @@ Projeto desenvolvido utilizando:
   ./gradlew bootRunDev
 ```
 - Acesse o swagger do projeto em http://localhost:8080/swagger-ui.html.
-
-# Descrição
-Aplicação de exemplo de uso do Spring AOP pra transição de status de um processo.
